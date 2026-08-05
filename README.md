@@ -20,7 +20,7 @@
   Programs an ARM or AVR microcontroller directly using C and register manipulation rather than high-level framework abstraction libraries.
 
 - **Multi-Tasking RTOS Controller**
-  Implements a real-time operating system to run multiple concurrent tasks—such as sensor polling, display driving, and USB communications—without blocking the central CPU loop.
+  Implements a real-time operating system to run multiple concurrent tasks—such as sensor polling, display driving and USB communications—without blocking the central CPU loop.
 
 - **CAN Bus Vehicle & Industrial Reader**
   Interfaces with an OBD-II port or industrial CAN network to capture live engine telemetry and render it on a localized display screen.
@@ -41,7 +41,7 @@
   Builds a noise-isolated sensor module using RS-485 differential signaling to reliably communicate with factory automation hardware.
 
 - **Custom Li-Ion Battery Management System (BMS)**
-  Designs a PCB to safely regulate lithium battery charging, monitor accurate state-of-charge, and provide overcurrent/thermal protection cutoff.
+  Designs a PCB to safely regulate lithium battery charging, monitor accurate state-of-charge and provide overcurrent/thermal protection cutoff.
 
 - **Over-The-Air (OTA) Bootloader**
   Develops a custom bootloader enabling a device to wirelessly update its own application firmware over Wi-Fi or Bluetooth.
