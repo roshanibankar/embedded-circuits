@@ -3,7 +3,7 @@
 ## EMBEDDED CIRCUITS
 ### 1. Arduino Light Sync
 
-  Audio-reactive lighting system built with MOSFETs, audio amplifiers, and an Arduino UNO.
+  Audio-reactive lighting system built with MOSFETs, audio amplifiers and an Arduino UNO.
 
 ### 2. DEPTH Distance Analyzer
 
@@ -27,7 +27,7 @@
 
 ### 7. Multi-Tasking RTOS Controller
 
-  Implements a real-time operating system to run multiple concurrent tasks—such as sensor polling, display driving and USB communications—without blocking the central CPU loop.
+  Implements a real-time operating system to run multiple concurrent tasks—such as sensor polling, display driving and USB communications, without blocking the central CPU loop.
 
 ### 8. CAN Bus Vehicle & Industrial Reader
 
