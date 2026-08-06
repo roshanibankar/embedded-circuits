@@ -60,6 +60,8 @@
 ### 15. Over-The-Air (OTA) Bootloader
 
   Develops a custom bootloader enabling a device to wirelessly update its own application firmware over Wi-Fi or Bluetooth.
+
+
 ---
 ```
 # Guides
